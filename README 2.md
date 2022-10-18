@@ -747,7 +747,3 @@ A table of Scores by School Type looks as follows:
             </tr>
     </tbody></table>
 
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
